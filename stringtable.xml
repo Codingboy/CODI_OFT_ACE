@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="CODI_OFT_ACE">
+	<Package name="Main">
+		<Key ID="STR_CODI_OFT_ACE_itemDescription">
+			<Original>Provides the possibility to mark enemy, independent, friendly and civilian units on the map.</Original>
+			<German>Ermöglicht es feindliche, unabhängige, freundliche und zivile Einheiten auf der Karte zu markieren.</German>
+		</Key>
+	</package>
+</Project>
